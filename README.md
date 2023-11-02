@@ -7,12 +7,11 @@
 
 ## **Team Members**
 
-- **RA2111003011824 - Sarthak Sachdeva**
-- **RA2111003011830 - Sashikanta Mohanty**
-- **RA2111003011823 - Ayush Garg**
-- **RA2111003011844 - Nithyalaksmi M**
-- **RA2111003011826 - Akanksha Singh**
-- **RA2111003011850 - Rayala Sai praneeth**
+- **RA2111033010155 - Mehul Kumar**
+- **RA2111033010150 - Sourabh Singh Chouphal**
+- **RA2111033010149 - Ashraya Agnihotri**
+- **RA2111033010146 - Ayush Aggarwal**
+- **RA2111033010156 - Aarushi Gupta**
 
 ## **Abstract**
 
